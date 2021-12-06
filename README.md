@@ -23,3 +23,6 @@ Frontend
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhanjune93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhanjune93)](https://solved.ac/kimhanjune93/)
+
